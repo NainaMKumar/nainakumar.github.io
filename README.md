@@ -16,7 +16,8 @@ Intern at Wellnest Tech (June 2023 - Aug 2023)
 
 ### Soleful
 • Developing shoe made from 100% recycled PET 
-• Check out project memo [here] ( https://polarized-peripheral-90c.notion.site/Preventing-Foot-Disease-Through-High-Quality-Affordable-Footwear-in-Ethiopia-ce7a1f811c0447b2a80c9e44448a970f?pvs=4 )
+• Check out project memo [here] [1]
+[1]: https://polarized-peripheral-90c.notion.site/Preventing-Foot-Disease-Through-High-Quality-Affordable-Footwear-in-Ethiopia-ce7a1f811c0447b2a80c9e44448a970f  "here"
 
 ### Medivision 
 • Developed Unity project to enable surgeons to view patient medical records in Augmented Reality. 
