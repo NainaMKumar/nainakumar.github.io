@@ -1,16 +1,16 @@
 # nainakumar.github.io
 
 ## Experiences
-Intern at Dartmouth University (June 2024 - Present)
+### Intern at Dartmouth University (June 2024 - Present)
 • Building Multimodal AI to understand kidney stone pathogenesis
 
-Intern at BenchSci (June 2024 - Present)
+### Intern at BenchSci (June 2024 - Present)
 • Developing LLMs to efficiently process vendor data
 
-Intern at Wellnest Tech (June 2023 - Aug 2023)
-• Built a CNN - BiLSTM to detect heart arrythmias in ECG signals using MIT BIH Arrythmia Dataset 
-• Built a MLP to detect heart arrythmias in ECG signals using Arrythmia Dataset from UCL Machine Learning Repository 
-• Built a LGBM Classifier to detect myocardial infarction using Heart Attack Dataset from UCL Machine Learning Repository
+### Intern at Wellnest Tech (June 2023 - Aug 2023)
+• Built a CNN - BiLSTM to detect heart arrythmias in ECG signals using MIT BIH Arrythmia Dataset. <br/>
+• Built a MLP to detect heart arrythmias in ECG signals using Arrythmia Dataset from UCL Machine Learning Repository. <br/>
+• Built a LGBM Classifier to detect myocardial infarction using Heart Attack Dataset from UCL Machine Learning Repository. 
 
 ## Projects
 
