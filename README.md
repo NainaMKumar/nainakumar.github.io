@@ -1,4 +1,4 @@
-# nainakumar.github.io
+# Portfolio
 
 ## Experiences
 ### Intern at Dartmouth University (June 2024 - Present)
