@@ -21,12 +21,12 @@ Intern at Wellnest Tech (June 2023 - Aug 2023)
 [here]: https://polarized-peripheral-90c.notion.site/Preventing-Foot-Disease-Through-High-Quality-Affordable-Footwear-in-Ethiopia-ce7a1f811c0447b2a80c9e44448a970f  "here"
 
 ### Medivision 
-• Developed Unity project to enable surgeons to view patient medical records in Augmented Reality. 
+• Developed Unity project to enable surgeons to view patient medical records in Augmented Reality. <br/>
 • Received a **3K grant** from Emergent Ventures at George Mason University and **1k grant** from 1517 Fund to buy HoloLens 2.
 
 ### BenchBot 
-• Developed a Slackbot to optimize productivity and workflow efficiency at BenchSci, an AI x Research Science company. 
-• Worked in a team of 3 people from Toronto and talked to 15+ employees at BenchSci.
+• Developed a Slackbot to optimize productivity and workflow efficiency at BenchSci, an AI x Research Science company. <br/>
+• Worked in a team of 3 people from Toronto and talked to 15+ employees at BenchSci. <br/>
 • Presented solution to CEO, Liran Belenzon and awarded first place prize: internship, letter of recognition, and mentorship from BenchScier.
 
 ### Arrhythmia Detection
