@@ -1,6 +1,6 @@
 # Portfolio
 
-## Experiences
+## Experiences  
 ### Intern at Dartmouth University (June 2024 - Present)
 • Building Multimodal AI to understand kidney stone pathogenesis
 
